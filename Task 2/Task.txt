@@ -1,0 +1,40 @@
+# blockgames-program
+Task Points: 5
+
+Task Title: Create a “Hello World” contract
+General-Blockchain
+General-Blockchain-Course
+Created 06-03-2022 14:36:17
+
+Create a “Hello World” contract with a constructor, at least two functions, and a state variable, and Deploy to a Testnet (Rinkeby).
+
+ 
+
+Prerequisite:
+
+Basic Solidity syntax.
+Testnets
+ 
+
+Objectives:
+
+To expose students to smart contracts on Ethereum via Solidity. 
+To expose students to basic deployment patterns.
+Submission:
+
+Push your code to GitHub ( Solidity contract, BIN, and ABI)
+Deploy your contract on an Ethereum Testnet.
+Add the successfully deployed contract's address to your GitHub README.md.
+Verify your contract's source code
+Submit a link to GitHub repo/folder containing code (Ensure it's publicly available)
+Resources:
+
+https://www.ibm.com/topics/smart-contracts : This contains the broad concept of smart contracts.
+https://youtu.be/ZE2HxTmxfrI: This explains smart contracts.
+https://youtu.be/dp0D-Qapbds : This was done by one of the blockgame mentor(Mayowa) and it explains smart contracts.
+https://youtu.be/DodjM9ablhI: This video was done by one of the blockgame mentors (Deborah) and explains basic solidity syntax.
+https://www.tutorialspoint.com/solidity/solidity_overview.htm : This is a written tutorial to aid in learning solidity.
+https://youtu.be/KwIgdI6d_Gc: This video was done by one of the blockgame mentors (Happiness) and explains tools for writing and deploying a smart contract.
+https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract : This is a step-by-step introductory tutorial that will teach you how to create and deploy a smart contract on Ethereum.
+https://youtu.be/bNXJNeaYl8Q:This concerns how to create a simple Ethereum smart contract with solidity.
+https://www.youtube.com/watch?v=g73EGNKatDw&t=5s : This shows how to write a solidity smart contract.
