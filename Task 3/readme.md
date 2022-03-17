@@ -8,3 +8,10 @@ https://rinkeby.etherscan.io/address/0x6cbd39b2cab7a12e82d4db90196b13b0fc9ba425#
 
 IPFS URL
 ipfs.io/ipfs/bafybeihwfeq7hsfqd5en6gvxvvetqec2vm7ieitvnkqzp5jvnyavyjlyji
+
+
+Metadata structure: {
+   "name":"The Minions",
+   "image":"ipfs.io/ipfs/bafybeihwfeq7hsfqd5en6gvxvvetqec2vm7ieitvnkqzp5jvnyavyjlyji",
+   "description":"It wasa cold winter,when the Minions went searching for their master"
+}
