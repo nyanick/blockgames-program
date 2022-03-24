@@ -1,0 +1,62 @@
+Task Title: Create ERC20 and ERC721 tokens
+General-Blockchain
+General-Blockchain-Course
+Created 14-03-2022 00:17:48
+
+Create a simple ERC20 and ERC721 tokens that make use of inheritance and imported libraries, using any framework of your choice(remix, hardhat or truffle).
+
+Prerequisite:
+
+Students should understand:
+
+- What ERCs (Ethereum Requests for Comments) are.
+
+- What are tokens and NFTs.
+
+- How to deploy Smart Contracts to an Ethereum testnet.
+
+- How to verify their smart contracts on Etherscan. 
+
+Objectives:
+
+Implement a standard ERC20 token with a fixed total supply of 1,000,000 tokens. Add a payable function "buyToken" which accepts an ethereum address, "receiver" as a parameter, and then increments the token balance of the receiver with bought tokens.  The cost of buying tokens would be 1000 Tokens per ETH. Increment the total supply with the newly created tokens
+Create an ERC721 token. The token metadata should be stored onchain and the image in each metadata should be hosted on IPFS. Mint two NFTs with your contract
+ 
+
+Submission: 
+
+For the IPFS links, submit a link to the IPFS address, it should start with "ipfs.io".
+For the ERC20 and ERC721 tokens, submit your contract's etherscan address. All contracts must be verified
+Metadata structure: {
+               name : // Any name
+
+               image : // URL to image on IPFS,
+
+               description: // Some text
+
+     }
+
+HERE IS WHAT YOU SHOULD SUBMIT
+
+Push your code to GitHub, add all the 3 items above to your GitHub readme.md, and submit the URL to your GitHub repo. 
+
+If you submit anything else it's automatic 0.5
+
+ 
+
+Resources:
+
+https://ethereum.org/en/developers/docs/standards/tokens/erc-721/
+https://ethereum.org/en/developers/docs/standards/tokens/erc-20/
+Creating erc721 token on remix: How to create an erc721 token on the remix by Eniola.
+Solidity Tutorial | Creating an ERC-20 Token in Solidity with OpenZeppelin (for Beginners)
+How to Create an ERC721 Token? - A Classic Guide For Startups & Entrepreneurs - DEV Community
+How to Create an ERC20 Token in Solidity - DEV Community
+Getting Started with NFT Collectibles & Communities (for free) | by Rounak Banik | Scrappy Squirrels | Medium
+How to create an ERC20 Token from scratch with Solidity and Truffle By Emmanuel 
+How to Create an ERC20 Token the Simple Way
+Setting up smart contract local development environment with hardhat
+ERC-20 Token Standard | ethereum.org
+More resources will be provided during the week.
+
+Good Luck and all the best!

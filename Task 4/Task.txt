@@ -1,0 +1,26 @@
+Task Title: Write a proposal
+General-Blockchain
+General-Blockchain-Course
+Created 16-03-2022 10:03:06
+
+Look around you, based on the things you have learned about blockchain / web3.
+
+Write a proposal on what you can improve, create or eliminate using blockchain / web3 technology and tools.
+
+Your proposal should have the following sections:
+
+1. Introduction: Tell us about your idea and how you came about the idea
+
+2. Main body: Give full details of the idea
+
+3. Recommendation & Conclusion
+
+Your proposal should be published on GitHub gist, and the title should be in this format:
+
+Blockgames Task - [Proposal Title] - by [Your first name & Last name - your GitHub username]
+
+ 
+
+Submit the URL to your proposal here.
+
+You are free to discuss with your team, and/or mentor, however, the submission must be individual and unique to you.
